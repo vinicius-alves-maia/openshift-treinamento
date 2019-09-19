@@ -12,7 +12,7 @@ parameters:
   displayName: GUID's Name
   description: GUID for Test Drive Access
   required: true
-  value: <GUID>
+  value: orizon-defb
 objects:
 - apiVersion: v1
   kind: DeploymentConfig
