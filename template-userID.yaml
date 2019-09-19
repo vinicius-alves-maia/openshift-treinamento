@@ -1,13 +1,13 @@
 apiVersion: v1
 kind: Template
 metadata:
-   name: template-userID
+   name: template-user12
 parameters:
 - name: APPLICATION_NAME
   displayName: Application's Name
   description: How you want to call your application's name
   required: true
-  value: app-userID
+  value: app-user12
 - name: GUID
   displayName: GUID's Name
   description: GUID for Test Drive Access
